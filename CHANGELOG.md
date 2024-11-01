@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.0.1 *(2024-10-17)*
+This version of the Google Bidding Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-google-bidding:chartboost-mediation-adapter-google-bidding:5.23.3.+`
+  * iOS: `ChartboostMediationAdapterGoogleBidding: ~> 5.11.5.0`
+
 ### Version 5.0.0 *(2024-08-08)*
 
 First version of the Chartboost Mediation Unity SDK - Google Bidding Adapter.
