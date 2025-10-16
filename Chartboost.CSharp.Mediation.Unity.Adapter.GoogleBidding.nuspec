@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Chartboost.CSharp.Mediation.Unity.Adapter.GoogleBidding</id>
-    <version>5.1.0</version>
+    <version>5.2.0</version>
     <title>Chartboost Mediation Adapter - Google Bidding</title>
     <description>The Chartboost Mediation Unity SDK Adapter for Google Bidding.</description>
     <authors>Chartboost</authors>
