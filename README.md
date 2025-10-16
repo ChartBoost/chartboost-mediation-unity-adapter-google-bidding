@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - Google Bidding Adapter to y
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.google-bidding": "5.1.0",
+    "com.chartboost.mediation.unity.adapter.google-bidding": "5.2.0",
     ...
 },
 "scopedRegistries": [
