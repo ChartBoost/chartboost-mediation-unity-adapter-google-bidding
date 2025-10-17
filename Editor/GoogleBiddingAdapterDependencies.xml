@@ -6,9 +6,9 @@
     </androidPackages>
     <iosPods>
         <!-- iOS Adapter -->
-        <iosPod name="ChartboostMediationAdapterGoogleBidding" version="~> 5.12.5.0"/>
+        <iosPod name="ChartboostMediationAdapterGoogleBidding" version="~> 5.12.6.0"/>
 
         <!-- Partner iOS SDK-->
-        <iosPod name="Google-Mobile-Ads-SDK" version="~> 12.5.0" addToAllTargets="false"/>
+        <iosPod name="Google-Mobile-Ads-SDK" version="~> 12.6.0" addToAllTargets="false"/>
     </iosPods>
 </dependencies>
