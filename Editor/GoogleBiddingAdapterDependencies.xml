@@ -2,7 +2,7 @@
 <dependencies>
     <androidPackages>
         <!-- Android Adapter -->
-        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-google-bidding:5.24.3.+"/>
+        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-google-bidding:5.24.4.+"/>
     </androidPackages>
     <iosPods>
         <!-- iOS Adapter -->
