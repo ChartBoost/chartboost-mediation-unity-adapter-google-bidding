@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.2.6 *(2025-10-10)*
+This version of the Google Bidding Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-google-bidding:5.24.5.+`
+  * iOS: `ChartboostMediationAdapterGoogleBidding: ~> 5.12.7.0`
+
 ### Version 5.2.5 *(2025-10-10)*
 This version of the Google Bidding Adapter supports the following native SDK dependencies:
   * Android: `com.chartboost:chartboost-mediation-adapter-google-bidding:5.24.4.+`
