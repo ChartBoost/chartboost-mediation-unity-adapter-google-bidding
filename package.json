@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.google-bidding",
-    "version": "5.4.5",
+    "version": "5.4.6",
     "license": "MIT",
     "displayName": "Chartboost Mediation Adapter - Google Bidding",
     "description": "The Chartboost Mediation Unity SDK Adapter for Google Bidding.",
