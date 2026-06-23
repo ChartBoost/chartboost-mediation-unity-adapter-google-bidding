@@ -13,7 +13,7 @@ namespace Chartboost.Mediation.GoogleBidding
         /// <summary>
         /// The partner adapter Unity version.
         /// </summary>
-        public const string AdapterUnityVersion = "5.4.4";
+        public const string AdapterUnityVersion = "5.4.5";
         
         /// <inheritdoc cref="IPartnerAdapterConfiguration.AdapterNativeVersion"/>
         public static string AdapterNativeVersion => Instance.AdapterNativeVersion;
