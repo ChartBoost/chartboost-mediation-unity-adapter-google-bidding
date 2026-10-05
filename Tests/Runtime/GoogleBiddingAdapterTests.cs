@@ -7,12 +7,8 @@ using NUnit.Framework;
 
 namespace Chartboost.Tests
 {
-    internal class GoogleBiddingAdapterTests
+    internal class GoogleBiddingAdapterTests : DebugLogLevelFixture
     {
-        [SetUp]
-        public void SetUp()
-            => LogController.LoggingLevel = LogLevel.Debug;
-
         [Test]
         public void AdapterNativeVersion()
             => TestUtilities.TestStringGetter(() => GoogleBiddingAdapter.AdapterNativeVersion);
